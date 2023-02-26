@@ -1,0 +1,7 @@
+{
+    "description": "Real-time operating system for microcontrollers",
+    "name": "framework-wch-freertos",
+    "system": "all",
+    "url": "https://www.freertos.org/",
+    "version": "2.10000.0"
+}
